@@ -1,14 +1,5 @@
 {
     "version": 2,
-    "env": {
-        "DATABASE_URL": "@DATABASE_URL",
-        "DATABASE_HOST": "@DATABASE_HOST",
-        "DATABASE_PORT": "@DATABASE_PORT",
-        "DATABASE_USER": "@DATABASE_USER",
-        "DATABASE_PASSWORD": "@DATABASE_PASSWORD",
-        "DATABASE_DATABASE": "@DATABASE_DATABASE",
-        "TYPEORM_SYNCRHONIZE": "@TYPEORM_SYNCRHONIZE"
-    },
     "builds": [
         {
             "src": "build/main.js",
