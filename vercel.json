@@ -1,7 +1,6 @@
 {
     "version": 2,
     "env": {
-        "NODE_ENV": "@NODE_ENV",
         "DATABASE_URL": "@DATABASE_URL",
         "DATABASE_HOST": "@DATABASE_HOST",
         "DATABASE_PORT": "@DATABASE_PORT",
